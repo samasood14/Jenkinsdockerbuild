@@ -1,4 +1,4 @@
-[200~pipleline{
+pipleline{
 
     agent any
 
